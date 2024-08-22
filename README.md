@@ -1,6 +1,6 @@
-# SDS Course Knowledge Repository
+# SDS Reviews
 
-## Welcome to the SDS Course Knowledge Repository!
+### Welcome to my SDS Course Review!
 
 This repository is dedicated to revising (and enhancing too!) my knowledge of the SDS (Stats for Data Science) course material. 
 Here, you will find various resources, code snippets, and exercises that will help reinforce the concepts learned in the course. 
